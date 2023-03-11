@@ -1,20 +1,40 @@
-[
-  {
-    "id": 1,
-    "name": "Bruce Wayne",
-    "username": "Batman",
-    "email": "bruce.wayne@gotham.com"
-  },
-  {
-    "id": 2,
-    "name": "Tony Stark",
-    "username": "Ironman",
-    "email": "tony.stark@starkindustries.us"
-  },
-  {
-    "id": 3,
-    "name": "Peter Parker",
-    "username": "Spiderman",
-    "email": "peter.parker@uomoaracnide.it"
-  }
-]
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Bruce Wayne",
+      "username": "Batman",
+      "email": "bruce.wayne@gotham.com"
+    },
+    {
+      "id": 2,
+      "name": "Tony Stark",
+      "username": "Ironman",
+      "email": "tony.stark@starkindustries.us"
+    },
+    {
+      "id": 3,
+      "name": "Peter Parker",
+      "username": "Spiderman",
+      "email": "peter.parker@uomoaracnide.it"
+    },
+    {
+      "id": 4,
+      "name": "Natasha Romanoff",
+      "username": "Blackwidow",
+      "email": "natasha.romanoff@vedovanera.ru"
+    },
+    {
+      "id": 5,
+      "name": "Diana Prince",
+      "username": "Wonderwoman",
+      "email": "wonder.woman@amazzone.com"
+    },
+    {
+      "id": 6,
+      "name": "Selina Kyle",
+      "username": "Catwoman",
+      "email": "selina.kyle@miao.de"
+    }
+  ]
+}
